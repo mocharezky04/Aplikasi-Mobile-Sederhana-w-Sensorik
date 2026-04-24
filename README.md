@@ -84,8 +84,8 @@ Folder yang bisa diklik:
 1. Clone repository
 
 ```bash
-git clone https://github.com/mocharezky04/Aplikasi-Mobile-Sedarhana-w-Sensorik.git
-cd Aplikasi-Mobile-Sedarhana-w-Sensorik
+git clone https://github.com/mocharezky04/Aplikasi-Mobile-Sederhana-w-Sensorik.git
+cd Aplikasi-Mobile-Sederhana-w-Sensorik
 ```
 
 2. Install dependency
